@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email and jhum juhm maya </b></label>
+    <label for="email"><b>Enter Email and password enter karo bhai </b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
